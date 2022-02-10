@@ -1,0 +1,3 @@
+#include "resource.h"
+
+IDI_DOGE ICON "assets/Doge.ico"
